@@ -1,0 +1,23 @@
+dog,chases cats,mans best friend,likes bones,3
+kitty,chases mice,finicky,likes milk,5
+horse,fun to ride,eats apples,likes hay,5
+kangaroo,hops,animal,australia,8
+cobweb,spider,fly trap,halloween decor,6
+cycle,bike,summer,wheels,5
+juice,drink,apple,not soda,5
+zombie,dead,brains,living corpse,6
+joyfull,smiling,happy,enjoying,7
+test,students hate,examination,big quiz,4
+scratch,mark,tiny,cut,7
+human,you,blood,people,5
+baby,crying,young,annoying,4
+bamboo,pandas,japan,green trees,6
+shrubs,bushes,green,short trees,6
+fart,smelly,gas,butt,4
+foot,toes,bottom,use for walks,4
+eyes,seeing,diff colours,blind,4
+rat,long tail,rataouille,cheese,3
+lipstick,goes on lips,date night,red,8
+monster,scary,ugly,not human,7
+girlfriend,female friend,love,dating,10
+boyfriend,male friend,love,dating,9
